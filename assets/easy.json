@@ -1,0 +1,87 @@
+[{
+        "1": "What is Bed in indonesia?",
+        "2": "Bantal in English is?",
+        "3": "what Televisi in English?",
+        "4": "What is Cow in Indonesia?",
+        "5": "That is a eagle, The Indonesian of “eagle” is ….",
+        "6": "My motther asked me to buy Avocado, what is avocado in indonesia?",
+        "7": "What is Selimut in English?",
+        "8": "Gelas in English is?",
+        "9": "What is Flower in Indonesia?",
+        "0": "The English of akar is?"
+    },
+    {
+        "1": {
+            "a": "Kamar Tidur",
+            "b": "Kasur",
+            "c": "Sofa",
+            "d": "Kursi"
+        },
+        "2": {
+            "a": "Bolster",
+            "b": "Bed",
+            "c": "Lamp",
+            "d": "Pillow"
+        },
+        "3": {
+            "a": "Television",
+            "b": "Bed",
+            "c": "Stove",
+            "d": "Brush"
+        },
+        "4": {
+            "a": "Susu",
+            "b": "Kuning",
+            "c": "Kambing",
+            "d": "Sapi"
+        },
+        "5": {
+            "a": "Jerapah",
+            "b": "Merpati",
+            "c": "Elang",
+            "d": "Buaya"
+        },
+        "6": {
+            "a": "Durian",
+            "b": "Anggur",
+            "c": "Alpukat",
+            "d": "Rambutan"
+        },
+        "7": {
+            "a": "Pillow",
+            "b": "Blanket",
+            "c": "Sarong",
+            "d": "Bolster"
+        },
+        "8": {
+            "a": "Plate",
+            "b": "Glass",
+            "c": "Mirror",
+            "d": "Spoon"
+        },
+        "9": {
+            "a": "Bunga",
+            "b": "Biji",
+            "c": "Buah",
+            "d": "Mawar"
+        },
+        "0": {
+            "a": "Leaves",
+            "b": "Leaf",
+            "c": "Root",
+            "d": "Roof"
+        }
+    },
+    {
+        "1": "Kasur",
+        "2": "Pillow",
+        "3": "Television",
+        "4": "Sapi",
+        "5": "Elang",
+        "6": "Alpukat",
+        "7": "Blanket",
+        "8": "Glass",
+        "9": "Bunga",
+        "0": "Root"
+    }
+]

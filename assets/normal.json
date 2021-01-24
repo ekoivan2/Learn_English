@@ -1,0 +1,87 @@
+[{
+        "1": "The right sentece of Kasur in english is?",
+        "2": "The right sentence of Rumah in English is?",
+        "3": "The right sentence of Buaya in English is?",
+        "4": "The right sentence of Hiu in English is?",
+        "5": "The right sentence of ruang tamu is",
+        "6": "The right sentence of Kamar Mandi in english is?",
+        "7": "The right sentence of mulut in english is?",
+        "8": "The right sentece of Ibu jari in english is",
+        "9": "The right sentence of kaki in english is",
+        "0": "The right sentence of Meja in english is"
+    },
+    {
+        "1": {
+            "a": "Bed",
+            "b": "Bet",
+            "c": "Bad",
+            "d": "Beth"
+        },
+        "2": {
+            "a": "Haus",
+            "b": "Hose",
+            "c": "House",
+            "d": "Houshe"
+        },
+        "3": {
+            "a": "Kdrokodel",
+            "b": "Corcodile",
+            "c": "Crocodile",
+            "d": "Krocodile"
+        },
+        "4": {
+            "a": "Sark",
+            "b": "Shark",
+            "c": "Sarhk",
+            "d": "Sack"
+        },
+        "5": {
+            "a": "Live room",
+            "b": "Lifing room",
+            "c": "Living room",
+            "d": "Life room"
+        },
+        "6": {
+            "a": "Bedroom",
+            "b": "Bathroom",
+            "c": "Batchroom",
+            "d": "Bathroom"
+        },
+        "7": {
+            "a": "Month",
+            "b": "Meounth",
+            "c": "Mount",
+            "d": "Mouth"
+        },
+        "8": {
+            "a": "Big Finger",
+            "b": "Mother Finger",
+            "c": "Large Finger",
+            "d": "Mama Finger"
+        },
+        "9": {
+            "a": "Foot",
+            "b": "Food",
+            "c": "Fud",
+            "d": "Fuut"
+        },
+        "0": {
+            "a": "Tabel",
+            "b": "Touchbel",
+            "c": "Tebel",
+            "d": "Table"
+        }
+    },
+    {
+        "1": "Bed",
+        "2": "House",
+        "3": "Crocodile",
+        "4": "Shark",
+        "5": "Living room",
+        "6": "Bathroom",
+        "7": "Mouth",
+        "8": "Mother Finger",
+        "9": "Foot",
+        "0": "Table"
+    }
+]

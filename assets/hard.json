@@ -1,0 +1,87 @@
+[{
+        "1": "After finish eating Fifi feels sleepy, So she is going to the …. And sleeping",
+        "2": "My mother is going to cook my favorite food, so she wants me to help her at … ",
+        "3": "Frisky asked me what fruit I like, so I told her that I like …",
+        "4": "Indah has 4 … They are so cute, they sound like “Meows Meows”",
+        "5": "Indah has 4 … They are so cute, they sound like “Meows Meows”",
+        "6": "I want watch Naruto on GTV with my brother so I go to the … and turn on the … ",
+        "7": "After I woke up in the morning, I need to take shower at the ..",
+        "8": "My mom always told me to eat my .. in the soup so my eyes always healty",
+        "9": "I could’nt sleep if it’s freezing. So I take my …. Because it’s warm me",
+        "0": "My mother has a big manggo …, it’s full with … I cannt wait to eat it."
+    },
+    {
+        "1": {
+            "a": "Livingroom",
+            "b": "Bed",
+            "c": "Sofa",
+            "d": "Table"
+        },
+        "2": {
+            "a": "Kitchen",
+            "b": "Bedroom",
+            "c": "Livingroom",
+            "d": "Bathroom"
+        },
+        "3": {
+            "a": "Group",
+            "b": "Grade",
+            "c": "Grape",
+            "d": "Grope"
+        },
+        "4": {
+            "a": "Dogs",
+            "b": "Chickens",
+            "c": "Cows",
+            "d": "Cats"
+        },
+        "5": {
+            "a": "Root - Seed",
+            "b": "Fruit - Vegetables",
+            "c": "Cat - Dog",
+            "d": "Fruits - Tree"
+        },
+        "6": {
+            "a": "Kitchen - Stove",
+            "b": "Bed - Fan",
+            "c": "Television - Bed",
+            "d": "Livingroom - Television"
+        },
+        "7": {
+            "a": "Bedroom",
+            "b": "Kitchen",
+            "c": "Bathroom",
+            "d": "Badroom"
+        },
+        "8": {
+            "a": "Chocolate",
+            "b": "Broccoli",
+            "c": "Paprika",
+            "d": "Carrot"
+        },
+        "9": {
+            "a": "Bed Sheet",
+            "b": "Blanket",
+            "c": "Bolster",
+            "d": "Pillow"
+        },
+        "0": {
+            "a": "Seed - Tree",
+            "b": "Tree - Fruits",
+            "c": "Fruits - Trunk",
+            "d": "Tree - vegetable"
+        }
+    },
+    {
+        "1": "Bed",
+        "2": "Kitchen",
+        "3": "Grape",
+        "4": "Cats",
+        "5": "Fruits – Vegetables",
+        "6": "Televison – Bed",
+        "7": "Bathroom",
+        "8": "Carrot",
+        "9": "Blanket",
+        "0": "Tree - Fruits"
+    }
+]
